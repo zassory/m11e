@@ -1,0 +1,16 @@
+{
+  "name": "nicolas-caceres-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nicolas Caceres Latorre",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.32.1"
+  }
+}
